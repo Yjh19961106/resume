@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # resume_0822
 
 > online resume
@@ -25,3 +26,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# resume
+my resume
+>>>>>>> 22e56b3387fe531d705591edb54dcbb96c9d819e
